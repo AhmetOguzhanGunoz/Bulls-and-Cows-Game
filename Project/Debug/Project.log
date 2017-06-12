@@ -1,0 +1,20 @@
+﻿  game.c
+d:\university\üniversite projeleri\bulls and cows game\project\game.c(62): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  AhmetOguzhanGunoz.c
+d:\university\üniversite projeleri\bulls and cows game\project\ahmetoguzhangunoz.c(18): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\university\üniversite projeleri\bulls and cows game\project\ahmetoguzhangunoz.c(20): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+d:\university\üniversite projeleri\bulls and cows game\project\ahmetoguzhangunoz.c(22): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+d:\university\üniversite projeleri\bulls and cows game\project\ahmetoguzhangunoz.c(33): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+d:\university\üniversite projeleri\bulls and cows game\project\ahmetoguzhangunoz.c(65): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+d:\university\üniversite projeleri\bulls and cows game\project\ahmetoguzhangunoz.c(116): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+d:\university\üniversite projeleri\bulls and cows game\project\ahmetoguzhangunoz.c(15): warning C4101: 'j': unreferenced local variable
+  Generating Code...
+AhmetOguzhanGunoz.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+  Project.vcxproj -> D:\UNIVERSITY\Üniversite Projeleri\Bulls and Cows Game\Debug\Project.exe
+  Project.vcxproj -> D:\UNIVERSITY\Üniversite Projeleri\Bulls and Cows Game\Debug\Project.pdb (Full PDB)
